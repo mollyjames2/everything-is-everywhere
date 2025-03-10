@@ -22,6 +22,6 @@ The `analysis/` directory contains Python and R scripts for processing and visua
 
 ## Citation
 This repository supports the work undertaken in following publication:
-[AUTHORS] (2025) The ‘everything is everywhere’ framework: Holistic network analysis as a marine spatial management tool. [JOURNAL] [DOI}
+[AUTHORS] (2025) The ‘everything is everywhere’ framework: Holistic network analysis as a marine spatial management tool. [JOURNAL] [DOI]
 
 If you use this repository, please cite the above publication
